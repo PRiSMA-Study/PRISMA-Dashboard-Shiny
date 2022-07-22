@@ -1,0 +1,2 @@
+load("/Users/xiangli/Dropbox/2021RA/ReMAPPxDashboard/inst/extdata/birthOutcome.rds")
+load("/Users/xiangli/Dropbox/2021RA/ReMAPPxDashboard/inst/extdata/hbStatusOutcome.rds")
